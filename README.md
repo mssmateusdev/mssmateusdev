@@ -8,7 +8,7 @@ Backend Developer | Estudante de Ciência da Computação
 - 🔭 Atualmente trabalhando e focado no ecossistema **Java (Spring Boot)** e arquitetura de back-end.
 - 🎓 Cursando Ciência da Computação.
 - 🛠️ Experiência com automações, DevOps pipelines e bancos de dados SQL/NoSQL.
-- 📫 Como falar comigo: [LinkedIn](https://linkedin.com/in/SEU_LINKEDIN)
+- 📫 Como falar comigo: [LinkedIn](https://linkedin.com/in/mssmateusdev/)
 
 ---
 
