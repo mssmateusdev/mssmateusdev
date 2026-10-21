@@ -1,27 +1,26 @@
-# Olá, me chamo Mateus 👋
+# Olá, eu sou Mateus Souza 👋
 
-Sou um estudante de tecnologia apaixonado por programação, com foco em desenvolvimento Back-End com Java.
-
----
-
-### 🚀 Sobre Mim
-- 🎓 Cursando **Ciências da Computação** na Estácio.
-- 🌱 Atualmente focando meus estudos em **Java** e nos fundamentos da **Programação Orientada a Objetos**.
-- 💡 Tenho interesse em desenvolvimento de software, resolução de problemas e arquitetura de sistemas.
-- 📫 Como entrar em contato comigo: **ms-mateus@hotmail.com**
+Backend Developer | Estudante de Ciência da Computação
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+### 🚀 Sobre mim
+- 🔭 Atualmente trabalhando e focado no ecossistema **Java (Spring Boot)** e arquitetura de back-end.
+- 🎓 Cursando Ciência da Computação.
+- 🛠️ Experiência com automações, DevOps pipelines e bancos de dados SQL/NoSQL.
+- 📫 Como falar comigo: [LinkedIn](https://linkedin.com/in/SEU_LINKEDIN)
 
-Aqui estão algumas das tecnologias com as quais já tive contato nos meus estudos:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ---
 
-### 🔗 Conecte-se Comigo
+### 🛠️ Tecnologias & Ferramentas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,python,postgres,docker,git,linux,bash" alt="Tecnologias" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-souza-40437b1a7/)
+---
+
+### 📊 Estatísticas
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mssmateusdev&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mssmateusdev&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</p>
